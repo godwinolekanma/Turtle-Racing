@@ -46,6 +46,7 @@ while race_on:
         if turtle.xcor() > 230:  # get x coordinate of turtle
             race_on = False
             winning_color = turtle.pencolor()
+            # Get the index of the winning turtle in the list and add 1 to get the player number
             player_number = all_turtle.index(turtle) + 1
             print(f"The {winning_color} turtle is the winner! player{player_number} won")
 
