@@ -18,7 +18,7 @@ This is a simple Python script for a Turtle racing game where multiple players c
 
 1. Clone this repository:
   
-       git clone https://github.com/your_username/turtle-racing-game.git
+       git clone https://github.com/godwinolekanma/Turtle-Racing.git
 
 4. Navigate to the project directory
 
